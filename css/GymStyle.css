@@ -1,0 +1,34 @@
+body{
+    background: url(../images/gymG.jpg)
+ no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+div{
+    text-align: center;
+    background-color: lightblue;  
+    width: 40% ;
+    margin: 100px auto;
+    border-radius: 25px;
+    font-family: 'Hanalei Fill', cursive;
+
+}
+button {
+    background: yellow;
+    padding: 15px;
+    color: white;
+    font-size: 2em;
+    border-radius: 10px;
+}
+
+h1{
+    
+    font-size: 4em;
+}
+
+p{
+    
+    font-size: 1.8em;
+}
+
